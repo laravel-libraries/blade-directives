@@ -1,0 +1,21 @@
+{
+    "name": "laralibs/blade-directives",
+    "authors": [
+        {
+            "name": "Daison Carino",
+            "email": "daison12006013@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "LaraLibs\\BladeDirectives\\": "src/"
+        }
+    },
+    "extra": {
+        "branch-alias": {
+            "dev-master": "0.0-dev"
+        }
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
+}
